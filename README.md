@@ -1,0 +1,1 @@
+# mingei-shop
