@@ -1,4 +1,7 @@
 {
     //array 
-    "preset": ["next/babel"]
+    "preset": ["next/babel",
+    "@babel/preset-react"
+    ]
+    //["@babel/preset-react"]
 }
